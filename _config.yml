@@ -28,7 +28,7 @@ twitter_username: hellosam1332
 github_username:  hellosam1332
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
